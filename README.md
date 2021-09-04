@@ -29,9 +29,17 @@
 <a href="https://www.linkedin.com/in/vitorsmaia/">
   <img align="left" alt="Vitor Maia Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://discord.gg/pDbY76q8Qf" target="_blank">
+ <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+</a> 
+</br>
+<a href="https://cdn.discordapp.com/attachments/883672422589558805/883672518215471114/Webp.net-gifmaker.gif" target="_blank">
+  <img align="right" alt="GIF" width="350" height="320" src="https://cdn.discordapp.com/attachments/883672422589558805/883672518215471114/Webp.net-gifmaker.gif" target="_blank">
+</a> 
 
 <br />
 <br />
 
-![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=VitorSMaia&count_private=true&show_icons=true&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSMaia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=VitorSMaia&count_private=true&show_icons=true&theme=algolia) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSMaia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
