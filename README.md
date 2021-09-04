@@ -18,14 +18,16 @@
 - 📫 Como entrar em contato comigo: [@vitorsmaia](https://www.linkedin.com/in/vitorsmaia/);
 
 ## :hammer: Linguagens e ferramentas
-
-<img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div>
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php.svg">
+ <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
 ## 💬 Para saber mais sobre mim:
-
+<div>
 <a href="https://discord.com/channels/853324834712584222/853324834712584228" target="_blank">
  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
@@ -37,11 +39,11 @@
 </a>
 <a href="https://www.linkedin.com/in/vitorsmaia/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
-
+</a>
 <a href="https://github.com/VitorSMaia" target="_blank">
   <img align="right" alt="GIF" width="300" height="300" src="https://cdn.discordapp.com/attachments/883672422589558805/883688393425440829/Webp.net-gifmaker_2.gif" target="_blank">
 </a>
+</div>
 
 ![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=VitorSMaia&count_private=true&show_icons=true&theme=algolia) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSMaia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
