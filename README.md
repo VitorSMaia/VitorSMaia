@@ -40,11 +40,11 @@
 </a> 
 
 <a href="https://github.com/VitorSMaia" target="_blank">
-  <img align="right" alt="GIF" width="350" height="320" src="https://cdn.discordapp.com/attachments/883672422589558805/883672518215471114/Webp.net-gifmaker.gif" target="_blank">
+  <img align="right" alt="GIF" width="330" height="300" src="https://cdn.discordapp.com/attachments/883672422589558805/883672518215471114/Webp.net-gifmaker.gif" target="_blank">
 </a>
 
 ![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=VitorSMaia&count_private=true&show_icons=true&theme=algolia) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSMaia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/VitorSMaia/vitormaia/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/VitorSMaia/vitormaia/blob/output/github/workflows/cobrinha.yml)
+
