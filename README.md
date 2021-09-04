@@ -26,14 +26,20 @@
 
 ## 💬 Para saber mais sobre mim:
 
-<a href="https://www.linkedin.com/in/vitorsmaia/">
-  <img align="left" alt="Vitor Maia Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://discord.gg/pDbY76q8Qf" target="_blank">
+<a href="https://discord.com/channels/853324834712584222/853324834712584228" target="_blank">
  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+</a>
+<a href="https://www.instagram.com/vitorsmaia_/" target="_blank">
+ <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+<a href = "mailto:vito.smaia1@gmail.com">
+ <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/vitorsmaia/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
-</br>
-<a href="https://cdn.discordapp.com/attachments/883672422589558805/883672518215471114/Webp.net-gifmaker.gif" target="_blank">
+
+<a href="https://github.com/VitorSMaia" target="_blank">
   <img align="right" alt="GIF" width="350" height="320" src="https://cdn.discordapp.com/attachments/883672422589558805/883672518215471114/Webp.net-gifmaker.gif" target="_blank">
 </a> 
 
