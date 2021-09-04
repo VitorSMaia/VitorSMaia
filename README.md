@@ -40,7 +40,7 @@
 </a> 
 
 <a href="https://github.com/VitorSMaia" target="_blank">
-  <img align="right" alt="GIF" width="300" height="300" src="https://cdn.discordapp.com/attachments/883672422589558805/883672518215471114/Webp.net-gifmaker.gif" target="_blank">
+  <img align="right" alt="GIF" width="300" height="300" src="https://cdn.discordapp.com/attachments/883672422589558805/883688393425440829/Webp.net-gifmaker_2.gif" target="_blank">
 </a>
 
 ![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=VitorSMaia&count_private=true&show_icons=true&theme=algolia) 
