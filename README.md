@@ -47,4 +47,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSMaia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/VitorSMaia/vitormaia/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/VitorSMaia/vitormaia/blob/output/github/workflows/cobrinha.yml)
