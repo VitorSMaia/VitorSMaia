@@ -5,7 +5,7 @@
 
 ## :triangular_flag_on_post: Habilidades técnicas
 - Linguagens de programação: PHP
-- Banco de dados / Estrutura de dados: MySQL e SqlServer
+- Banco de dados: MySQL e SqlServer
 - Diversos: Código limpo | API | REST | Git | Grafana | PowerBI | SQL | QlinkSense
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
