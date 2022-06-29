@@ -1,12 +1,15 @@
-### Olá, Bem - Vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou Vitor Maia!
+### Bem - Vindo(a),
+
+#### Olá, Eu sou Vitor Maia!
 
 ![](https://visitor-badge.glitch.me/badge?page_id=VitorSMaia.VitorSMaia)
 ![](https://img.shields.io/github/watchers/VitorSMaia/VitorSMaia.svg)
 
 ## :triangular_flag_on_post: Habilidades técnicas
-- Linguagens de programação: PHP
-- Banco de dados: MySQL e SqlServer
-- Diversos: Código limpo | API | REST | Git | Grafana | PowerBI | SQL | QlinkSense
+- Linguagens de programação: PHP | JS
+- Banco de dados: MySQL | SqlServer
+- Diversos: API REST | Git | Grafana | PowerBI | SQL | QlinkSense
+- Fameworks: Laravel 
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
