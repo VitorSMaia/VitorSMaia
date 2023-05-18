@@ -1,6 +1,5 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" 
       width="400" height="200" />
-![](https://visitor-badge.glitch.me/badge?page_id=VitorSMaia.VitorSMaia)
 ![](https://img.shields.io/github/watchers/VitorSMaia/VitorSMaia.svg)
 
 Olá! Me chamo João Vitor e sou um entusiasta da programação, apaixonado por desenvolvimento web e em constante busca por conhecimento. Neste espaço, compartilho um pouco sobre mim e minha experiência na área de desenvolvimento de software.
