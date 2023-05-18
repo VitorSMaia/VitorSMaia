@@ -1,5 +1,5 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" 
-      width="500" height="200" />
+      width="400" height="200" />
 ![](https://visitor-badge.glitch.me/badge?page_id=VitorSMaia.VitorSMaia)
 ![](https://img.shields.io/github/watchers/VitorSMaia/VitorSMaia.svg)
 
