@@ -18,8 +18,8 @@ Olá! Me chamo João Vitor e sou um entusiasta da programação, apaixonado por 
 ### Projetos
 Aqui estão alguns dos projetos que desenvolvi e que demonstram minhas habilidades e experiência:
 
-- [Nome do Projeto](link do projeto): Breve descrição do projeto.
-- [Nome do Projeto](link do projeto): Breve descrição do projeto.
+- [VitorSM](https://github.com/VitorSMaia/VitorSM): <br>
+Site pessoal, desenvolvido utilizando HTML, CSS, JavaScript e a TALL Stack. Apresenta informações sobre carreira, projetos destacados e habilidades técnicas. Entre em contato para colaborações ou oportunidades de trabalho.
 
 
 ### Contato
