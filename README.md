@@ -4,8 +4,7 @@
 Hello! My name is João Vitor, a developer in constant pursuit of knowledge. In this space, I share a bit about myself and my experience in the field of software development.
 
 ### Technologies and Skills
-- 💻 Full Stack Development with the TALL Stack (Tailwind CSS, Alpine.js, Laravel, and Livewire).
-- 🖥️ Experience with Vue.js and its related libraries and tools.
+- 💻 Full Stack Development).
 - ⚙️ Familiarity with other web technologies such as HTML, CSS, JavaScript, PHP, and SQL.
 - 🌐 Knowledge of web application architecture and responsive design.
 - 🧰 Use of version control tools like Git and GitHub.
